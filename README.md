@@ -3,8 +3,8 @@
 To clone this project
 
 ```bash
-  git clone
-  cd my-project
+  git clone https://github.com/AbdulrahmanKazkaz/plan-a-crud.git
+  cd plan-a-crud
 ```
 
 ## Run Locally
