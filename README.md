@@ -32,7 +32,7 @@ Create project tables
 Make Storage Shortcuts in public folder
 
 ```bash
-   php artisan storage:like
+   php artisan storage:link
 ```
 
 Build the project
